@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<!-- Mirrored from racheddaoudi.com/project/17-magal-group by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Jan 2021 18:47:20 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <meta name="author" content="Marwa El-Manawy <marwa@elmanawy.info>" />
+        <meta name="description" content="Welcome to the Rachid ED-DAOUDI Portfolio home page, entry point to information about my innovative projects, business solutions and business consulting services">
+        <meta name="Keywords" content="">
+        <link rel="shortcut icon" href="../cdn/settings/system-favicon1.png" type="image/x-icon" />
+        <title>Magal group - Rachid ED-DAOUDI</title>
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="../styles/site/default/assets/css/bootstrap.min.css" type="text/css">
+        <!-- Animation -->
+        <link rel="stylesheet" href="../styles/site/default/assets/css/animate.min.css" type="text/css">
+        <!-- Owl Carousel -->
+        <link rel="stylesheet" href="../styles/site/default/assets/css/owl.carousel.min.css" type="text/css">
+        <!-- Light Case -->
+        <link rel="stylesheet" href="../styles/site/default/assets/css/lightcase.min.css" type="text/css">
+        <!-- Template style -->
+                    <link rel="stylesheet" href="../styles/site/default/assets/css/style.css" type="text/css">
+                                                                        <link rel="stylesheet" href="../styles/site/default/assets/css/colors/teal.css" type="text/css">                <script src='../../www.google.com/recaptcha/api.js'></script>
+    </head>
+    <body>
+        <!-- preloader -->
+        <div id="preloader">
+            <div id="preloader-circle">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <!-- /preloader -->
+        <div class="wrapper-page">
+            <!-- Header -->
+            <header class="header">
+                <div class="header-content">
+                    <div class="profile-picture-block">
+                        <div class="my-photo">
+                            <img src="../cdn/about/avatar.jpg" class="img-fluid" alt="Rachid ED-DAOUDI">
+                        </div>
+                    </div>
+                    <!-- Header Head -->
+                    <div class="site-title-block">
+                        <div class="site-title">Rachid ED-DAOUDI</div>
+                        <div class="type-wrap">
+                            <div class="cd-headline clip">
+                                <span class="cd-words-wrapper">
+                                                                            <b>Développeur Web</b>
+                                                                            <b>UI/UX Designer</b>
+                                                                            <b>Graphic Designer</b>
+                                                                            <b>Développeur mobile</b>
+                                                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /Header Head -->
+
+                    <!-- Navigation -->
+                    <div class="site-nav">
+                        <!-- Main menu -->
+                        <ul class="header-main-menu" id="header-main-menu">
+                            <li><a class="active" href="../index.html#home"><i class="fas fa-home"></i> Accueil</a></li>
+                            <li><a href="../index.html#about-me"><i class="fas fa-user-tie"></i> A propos de moi</a></li>
+                            <li><a href="../index.html#resume"><i class="fas fa-award"></i> C.V</a></li>                             <li><a href="../index.html#portfolio"><i class="fas fa-business-time"></i> Portfolio</a></li>                                                        <li><a href="../index.html#contact"><i class="fas fa-paper-plane"></i> Me contacter</a></li>
+                        </ul> 
+                        <!-- /Main menu -->
+                    </div>
+                    <!-- /Navigation -->
+                </div>
+            </header>
+            <!-- /Header -->
+
+            <!-- Mobile Header -->
+            <div class="responsive-header">
+                <div class="responsive-header-name">
+                    <img class="responsive-logo" src="../cdn/about/avatar.jpg" alt="Rachid ED-DAOUDI" />
+                    Rachid ED-DAOUDI                </div> 
+                <span class="responsive-icon"><i class="lnr lnr-menu"></i></span>
+            </div>
+            <!-- /Mobile Header -->
+            <div class="content-pages">
+    <!-- Subpages -->
+    <div class="sub-home-pages">
+        <!-- Titlebar -->
+        <div id="titlebar">
+            <div class="container">
+                <div class="special-block-bg">
+                    <h2>Portfolio</h2>
+                    <!-- Breadcrumbs -->
+                    <nav id="breadcrumbs">
+                        <ul>
+                            <li><a href="../index.html"><i class="pe-7s-home"></i> Accueil</a></li>
+                            <li><a href="#">Portfolio</a></li>
+                            <li>Magal group</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <!-- /Titlebar -->
+
+        <!-- Content -->
+        <div class="container">
+            <header class="portfolio-head">
+                <img src="../cdn/projects/magalgroup_ma.png" alt="Magal group">
+                <div class="portfolio-head-content">
+                    <p class="meta">Corporate</p>
+                    <h1>Magal group</h1>
+                    <div class="portfolio-desc hidden-xs">
+                        <p><b>Published:</b> Dec 01, 2020</p>
+                        <p><b>Demo:</b> <a class="demo-pro" href="magalgroup.html"></a>magalgroup.ma</p>
+                        <div class="portfolio-attr">
+                            <a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fracheddaoudi.com%2Fproject%2F17-magal-group&amp;title=Magal+group+-+Rachid+ED-DAOUDI" target="_blank"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                            <a href="http://twitter.com/intent/tweet?status=Magal+group+-+Rachid+ED-DAOUDI+http%3A%2F%2Fracheddaoudi.com%2Fproject%2F17-magal-group" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a> 
+                            <a href="https://pinterest.com/pin/create/bookmarklet/?media=magalgroup_ma.png&amp;url=http%3A%2F%2Fracheddaoudi.com%2Fproject%2F17-magal-group&amp;description=Magal+group+-+Rachid+ED-DAOUDI" target="_blank"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <div class="section">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="block-centered pt-50"> 
+                            <p>Magal Groupe</p>                        </div>
+                    </div>
+                </div>
+            </div>
+                            <div class="related-projects pb-50 pt-50">
+                    <h4>Projets similaires</h4>
+                    <div class="clearfix portfolio-grid pt-30">
+                         
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_3 all">
+                                <div class="portfolio-img">
+                                    <img src="../cdn/projects/gemaplast_ma.png" class="img-responsive" alt="GemaPlast">
+                                </div>
+                                <div class="portfolio-data">
+                                    <h4><a href="9-gemaplast.html">GemaPlast</a></h4>
+                                    <p class="meta">Corporate</p>
+                                    <div class="portfolio-attr"> 
+                                        <a href="9-gemaplast.html"><i class="lnr lnr-link"></i></a> 
+                                        <a href="../cdn/projects/gemaplast_ma.png" data-rel="lightcase:gal" title="GemaPlast"><i class="lnr lnr-move"></i></a> 
+                                    </div>
+                                </div>
+                            </div>
+                         
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 portfolio-item pro_cat_3 all">
+                                <div class="portfolio-img">
+                                    <img src="../cdn/projects/locost_ma.png" class="img-responsive" alt="Locost">
+                                </div>
+                                <div class="portfolio-data">
+                                    <h4><a href="12-locost">Locost</a></h4>
+                                    <p class="meta">Corporate</p>
+                                    <div class="portfolio-attr"> 
+                                        <a href="12-locost"><i class="lnr lnr-link"></i></a> 
+                                        <a href="../cdn/projects/locost_ma.png" data-rel="lightcase:gal" title="Locost"><i class="lnr lnr-move"></i></a> 
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+                                    <div class="pb-50"></div>
+        </div>
+    </div>
+</div>
+        </div>
+
+        <!--JS Files-->
+        <script src="../styles/site/default/assets/js/jquery.min.js"></script>
+        <script src="../styles/site/default/assets/js/bootstrap.min.js"></script>
+        <!--Owl Coursel-->
+        <script src="../styles/site/default/assets/js/owl.carousel.min.js"></script>
+        <!-- Typing Text -->
+        <script src="../styles/site/default/assets/js/typed.min.js"></script> 
+        <!--Images LightCase-->
+        <script src="../styles/site/default/assets/js/lightcase.min.js"></script>
+        <!-- Portfolio filter -->
+        <script src="../styles/site/default/assets/js/jquery.isotope.min.js"></script>
+        <!-- Wow Animation -->
+        <script src="../styles/site/default/assets/js/wow.min.js"></script>  
+        <!-- Map -->
+        <!-- Main Script -->
+                    <script src="../styles/site/default/assets/js/script.js"></script>
+        
+                <script>
+            if ($('#google-map').length > 0) {
+                //set your google maps parameters
+                var latitude = 51.5255069,
+                        longitude = -0.0836207,
+                        map_zoom = 14;
+
+                //google map custom marker icon 
+                var marker_url = '../styles/site/default/assets/images/map-marker.png';
+
+                //we define here the style of the map
+                var style = [{"featureType": "landscape", "stylers": [{"saturation": -100}, {"lightness": 65}, {"visibility": "on"}]}, {"featureType": "poi", "stylers": [{"saturation": -100}, {"lightness": 51}, {"visibility": "simplified"}]}, {"featureType": "road.highway", "stylers": [{"saturation": -100}, {"visibility": "simplified"}]}, {"featureType": "road.arterial", "stylers": [{"saturation": -100}, {"lightness": 30}, {"visibility": "on"}]}, {"featureType": "road.local", "stylers": [{"saturation": -100}, {"lightness": 40}, {"visibility": "on"}]}, {"featureType": "transit", "stylers": [{"saturation": -100}, {"visibility": "simplified"}]}, {"featureType": "administrative.province", "stylers": [{"visibility": "off"}]}, {"featureType": "water", "elementType": "labels", "stylers": [{"visibility": "on"}, {"lightness": -25}, {"saturation": -100}]}, {"featureType": "water", "elementType": "geometry", "stylers": [{"hue": "#ffff00"}, {"lightness": -25}, {"saturation": -97}]}];
+
+                //set google map options
+                var map_options = {
+                    center: new google.maps.LatLng(latitude, longitude),
+                    zoom: map_zoom,
+                    panControl: true,
+                    zoomControl: true,
+                    mapTypeControl: true,
+                    streetViewControl: true,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP,
+                    scrollwheel: false,
+                    styles: style,
+                }
+                //inizialize the map
+                var map = new google.maps.Map(document.getElementById('google-map'), map_options);
+                //add a custom marker to the map				
+                var marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(latitude, longitude),
+                    map: map,
+                    visible: true,
+                    icon: marker_url,
+                });
+            }
+                    </script>
+    </body>
+
+<!-- Mirrored from racheddaoudi.com/project/17-magal-group by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Jan 2021 18:47:22 GMT -->
+</html>
